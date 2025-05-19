@@ -1,5 +1,5 @@
 <h2 align="center">👋 안녕하세요, whrjsgml0000입니다!</h2>
-<p align="center">백엔드 개발자 | Java </p>
+<p align="center">BackEnd With Java</p>
 <p align="center">
 <!--   <a href="https://your-blog.com">Blog</a> |  -->
   <a href="mailto:ggho4515@kyonggi.ac.kr">Email</a>
