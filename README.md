@@ -26,7 +26,7 @@
 # Solved.ac
 <!-- Solved.ac Tier Badge -->
 <p align="left">
-  <a href="https://solved.ac/kh4515">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kh4515" alt="Solved.ac 프로필">
+  <a href="https://solved.ac/whrjsgml4515">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whrjsgml4515" alt="Solved.ac 프로필">
   </a>
 </p>
